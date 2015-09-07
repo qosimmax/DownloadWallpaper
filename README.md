@@ -1,4 +1,4 @@
-# Downloa dWallpaper
+# Download Wallpaper
 download images from web page http://www.goodfon.ru/
 
 requirements:
